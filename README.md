@@ -1,1 +1,11 @@
-# test-hugo-template
+## test-hugo-template
+
+### commands
+
+```
+hugo server
+
+hugo
+
+```
+
