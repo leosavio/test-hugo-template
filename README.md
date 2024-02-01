@@ -9,3 +9,5 @@ hugo
 
 ```
 
+### links 
+- https://themes.gohugo.io/tags/responsive/
